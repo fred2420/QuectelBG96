@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map SD
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+BG96	KEYWORD1	BG96
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Connect			KEYWORD2
+SetBaudRate		KEYWORD2
+CheckMessage	KEYWORD2
+PutURL			KEYWORD2
+GPS				KEYWORD2
+OpenTCP			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+pin     	LITERAL1
+URL     	LITERAL1
+Port     	LITERAL1
+
